@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Edward/Documents/NetBeansProjects/kirb/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Edward/Documents/NetBeansProjects/kirb/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'kirb 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'kirb 1.0-SNAPSHOT API'
+com.mycompany.kirb
+kirbs
+C:\Users\Edward\Documents\NetBeansProjects\kirb\src\main\java = 1699843731647
+C:\Users\Edward\Documents\NetBeansProjects\kirb\target\site\apidocs\allclasses-index.html = 1699848170007
+C:\Users\Edward\Documents\NetBeansProjects\kirb\target\site\apidocs\allpackages-index.html = 1699848170017
+C:\Users\Edward\Documents\NetBeansProjects\kirb\target\site\apidocs\element-list = 1699848169422
+C:\Users\Edward\Documents\NetBeansProjects\kirb\target\site\apidocs\help-doc.html = 1699848170097
+C:\Users\Edward\Documents\NetBeansProjects\kirb\target\site\apidocs\index-all.html = 1699848170079
+C:\Users\Edward\Documents\NetBeansProjects\kirb\target\site\apidocs\index.html = 1699848169970
+C:\Users\Edward\Documents\NetBeansProjects\kirb\target\site\apidocs\jquery-ui.overrides.css = 1699848170136
+C:\Users\Edward\Documents\NetBeansProjects\kirb\target\site\apidocs\member-search-index.js = 1699848170029
+C:\Users\Edward\Documents\NetBeansProjects\kirb\target\site\apidocs\module-search-index.js = 1699848170020
+C:\Users\Edward\Documents\NetBeansProjects\kirb\target\site\apidocs\overview-summary.html = 1699848170087
+C:\Users\Edward\Documents\NetBeansProjects\kirb\target\site\apidocs\overview-tree.html = 1699848169957
+C:\Users\Edward\Documents\NetBeansProjects\kirb\target\site\apidocs\package-search-index.js = 1699848170023
+C:\Users\Edward\Documents\NetBeansProjects\kirb\target\site\apidocs\script.js = 1699848170107
+C:\Users\Edward\Documents\NetBeansProjects\kirb\target\site\apidocs\search.js = 1699848170113
+C:\Users\Edward\Documents\NetBeansProjects\kirb\target\site\apidocs\serialized-form.html = 1699848169855
+C:\Users\Edward\Documents\NetBeansProjects\kirb\target\site\apidocs\stylesheet.css = 1699848170103
+C:\Users\Edward\Documents\NetBeansProjects\kirb\target\site\apidocs\tag-search-index.js = 1699848170032
+C:\Users\Edward\Documents\NetBeansProjects\kirb\target\site\apidocs\type-search-index.js = 1699848170025
